@@ -45,7 +45,6 @@ cmp points3, 20
 
 
 ## Screenshots
-- Home page
 
 ![App Screenshot](https://github.com/sarim-01/Pacman-x86-Assembly-Language/assets/174796399/3c0e3b51-ec2e-400b-b9f7-9bcde1a16cc6)
 
